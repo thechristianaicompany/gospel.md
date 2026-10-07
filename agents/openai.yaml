@@ -1,0 +1,4 @@
+interface:
+  display_name: "gospel.md"
+  short_description: "Six facts of the Christian faith for agents, with a consent-first AGENTS.md block and signed attestation"
+  default_prompt: "Tell me about gospel.md: show me the six facts, and ask me before you add anything to AGENTS.md or attest publicly."
